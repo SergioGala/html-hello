@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    }
+.postal{
+    width: 800px;
+    height: 600px;
+    background: white;
+    margin: auto;
+    font-family: "Chakra Petch", sans-serif;
+
+}
+.postal-icon{
+    display: flex;
+   
+}
+.postal-icon img{
+    width: 100px;
+    height: 100px;
+
+}
+.postal-icon h1{
+    width: 700px;
+    margin: 3%;
+    font-family: "Chakra Petch", sans-serif;
+
+}
+.postal-inputs{
+    display: flex;
+    font-family: "Chakra Petch", sans-serif;
+ 
+}
+.inputs-texts{
+    padding:20px;
+    font-family: "Chakra Petch", sans-serif;
+   
+}
+input{
+    border: none;
+    border-bottom: 4px rgba(128, 128, 128, 0.397) solid;
+    font-family: "Chakra Petch", sans-serif;
+   
+}
+.postal-button{
+    text-align: center;
+    font-family: "Chakra Petch", sans-serif;
+    
+}button{
+    background-color: rgb(173, 173, 171);
+    padding: 10px 15px;
+    font-family: "Chakra Petch", sans-serif;
+   
+
+}
